@@ -17,7 +17,7 @@ For this task, BFS is implemented for two example trees (`root1` and `root2`). T
 ## Output
 Below are the expected outputs for each task.
 
-### Output for Task 2 (Graphs)
+### Output for Task 1 (Graphs)
 ```
 # Output for Graph 1
 ['C', 'D', 'A', 'B', 'E']
@@ -26,7 +26,7 @@ Below are the expected outputs for each task.
 [6, 4, 3, 5, 2, 1]
 ```
 
-### Output for Task 3 (Trees)
+### Output for Task 2 (Trees)
 ```
 # Output for Tree 1
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
