@@ -10,9 +10,14 @@ Breadth First Search (BFS) is a graph traversal algorithm that explores all the 
 
 ### Implement BFS for Graphs (Iteratively)
 In this task, BFS is implemented for two example graphs (`graph1` and `graph2`). The BFS algorithm is applied using the previously implemented `Queue` class, and the starting nodes for the graphs are 'C' and '6', respectively.
+ 
+![Graph 1](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/f813633c-5edf-4793-a7e9-33c39d2f758c) ![Graph 2](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/fb2e47a7-2165-4bb4-8da2-bf283678de82)
+
 
 ### Implement BFS for Trees (Recursively)
 For this task, BFS is implemented for two example trees (`root1` and `root2`). The BFS algorithm is applied using the previously implemented `Queue` class, and the starting nodes for the trees are '1' and 'Frankfurt', respectively.
+
+![Tree 1](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/7238b692-7b6e-477a-8369-1a0cff928413) ![Tree 2](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/9bf75f39-bbc7-4f2d-ab54-8de48195a4d5)
 
 ## Output
 Below are the expected outputs for each task.
