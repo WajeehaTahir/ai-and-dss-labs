@@ -11,9 +11,13 @@ Depth First Search (DFS) is a recursive searching algorithm that utilizes backtr
 ### Implement for Graphs (Iteratively)
 In this task, DFS is implemented iteratively. The algorithm is applied to graphs (`graph1` and `graph2`). The starting nodes are specified for each case.
 
+![image](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/8bdf856d-f710-4e99-b980-7b3bfd70b05d) ![image](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/755bf8c2-06ed-401d-884f-35992bfacdf0)
+
 
 ### Implement for Trees (Recursively)
 For this task, DFS is implemented recursively and trees (`root1` and `root2`) are traversed using the implemented DFS algorithm. The starting nodes are specified for each case.
+
+![image](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/26414a71-ec0d-460a-8a54-89641dbbc0c3) ![image](https://github.com/WajeehaTahir/ai-and-dss-labs/assets/88159584/ae687779-a640-4b9a-a94e-454338bb1042)
 
 
 ## Output
